@@ -1,0 +1,11 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "inputData",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ],
+  "entryPoint": "submit_ticket_activity"
+}
